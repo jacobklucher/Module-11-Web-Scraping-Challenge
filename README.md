@@ -2,7 +2,7 @@
 
 **File Structure:**
 ```
-Module-10-SQLAlchemy-Challenge
+Module-11-Web-Scraping-Challenge
 │  .gitignore
 │  LICENSE
 │  README.md
@@ -15,11 +15,11 @@ Module-10-SQLAlchemy-Challenge
             mars_data.csv
 ```
 
-+ The *Mars* folder contains the working project files and the *output* folder.
+The *Mars* folder contains the working project files and the *output* folder.
 + **part_1_mars_news.ipynb** is the first Jupyter Notebook file used to scrape and analyze the mars news website.
 + **part_2_mars_weather.ipynb** is the second Jupyter Notebook file used to scrape and analyze the mars facts website.
 
-+ The *output* folder contains the exported DataFrame file **mars_data.csv**.
+The *output* folder contains the exported DataFrame file **mars_data.csv**.
 
 **Instructions:**
 1. Clone the repository.
